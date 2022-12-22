@@ -1,0 +1,29 @@
+.App {
+  background:#080717;
+  color: #fff;
+}
+.form_container{
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.data_table_container{
+  border-radius: 5px;
+  color:#fff;
+   padding: 80px;
+
+  
+}
+.formControl{
+   height:20px;
+   width:20%;
+   margin-bottom:14px;
+   background:#040220;
+   color:#fff;
+   font-weight: 700;
+   padding: 4px;
+   outline: invert;
+}
